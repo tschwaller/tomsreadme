@@ -7,7 +7,7 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: Tom's Readme
-description: A Personal Blog about Deep Learning & Applied Category Theeory
+description: Deep Learning & Applied Category Theeory
 github_username: tschwaller
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "tomsreadme"
